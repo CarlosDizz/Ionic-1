@@ -10,7 +10,8 @@ export class TabsPage implements OnInit{
   constructor() {}
   ngOnInit() {
     let numero = 10;
-    numero = 20
+    console.log(numero);
+    numero = 20;
     console.log(numero);
   }
 
